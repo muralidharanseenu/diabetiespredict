@@ -1,5 +1,5 @@
 # diabetiespredict
-![image](https://github.com/Keerthilucifergithub/diabetiespredict/assets/138312646/2dc5e0a7-3b04-4dc8-83e2-378bf8638bd3)
+![image](https://github.com/muralidharanseenu/diabetiespredict/assets/138312646/2dc5e0a7-3b04-4dc8-83e2-378bf8638bd3)
 
 ---
 
@@ -29,7 +29,7 @@ To run this project, you can either download the files manually or use Git to cl
 
 ```bash
 # Clone the repository
-git clone https://github.com/Keerthilucifergithub/diabetiespredict .git
+git clone https://github.com/muralidharanseenu/diabetiespredict.git
 
 # Navigate to the project directory
 cd diabetiespredict 
@@ -114,4 +114,3 @@ The code in this project trains a logistic regression model on this dataset to p
 
 ---
 
-Please customize this README file as needed to include specific details about your project, and ensure that the dataset URL is accurate and accessible.
