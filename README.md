@@ -1,5 +1,6 @@
 # diabetiespredict
-![image](https://github.com/muralidharanseenu/diabetiespredict/assets/146166413/81d30e93-3ff5-4b67-a42c-702823bde737)
+![image](https://github.com/muralidharanseenu/diabetiespredict/assets/146166413/15789344-f891-4842-9a3d-12a5f800e340)
+
 
 
 # Diabetes Prediction
