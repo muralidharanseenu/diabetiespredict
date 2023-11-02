@@ -1,9 +1,5 @@
 # diabetiespredict
-![OIP4X0TGO0B](https://github.com/muralidharanseenu/diabetiespredict/assets/146166413/d5a36293-8dd0-4d73-9346-9abec8883475)
-
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=zebRpAIq&id=C15F890935C4A9567013EDEE786785694284BA14&thid=OIP.zebRpAIqbDv0MS43zo7ZbQHaE8&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.cde6d1a4022a6c3bf4312e37ce8ed96d%3frik%3dFLqEQmmFZ3ju7Q%26riu%3dhttp%253a%252f%252fhome-care-plus.com%252fwp-content%252fuploads%252f2016%252f11%252fdiabetesimage.jpeg%26ehk%3dxuTyaEzPZ5ovi5XrQmqYPyaDEsnznPXDWcOxY7pSKL8%253d%26risl%3d1%26pid%3dImgRaw%26r%3d0&exph=4724&expw=7086&q=diabetes+images&simid=607999260378363462&FORM=IRPRST&ck=BCC15442186B19775EF90061339DB1D3&selectedIndex=3" width=1000% height=5000%>
-
----
+![image](https://github.com/muralidharanseenu/diabetiespredict/assets/146166413/f547b07d-e2ab-4742-ac7d-f095bbdcf09b)
 
 # Diabetes Prediction
 
